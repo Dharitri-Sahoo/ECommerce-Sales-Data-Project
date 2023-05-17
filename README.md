@@ -1,1 +1,1 @@
-# Power-BI
+Power BI project using restail sales data
